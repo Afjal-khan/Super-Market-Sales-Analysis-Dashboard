@@ -51,4 +51,4 @@ Sample supermarket sales dataset containing:
 ![Supermarket Sales Dashboard](https://github.com/Afjal-khan/Super-Market-Sales-Analysis-Dashboard/blob/main/Sale%20dashboard%20image.png)
 
 ### Supermarket Sales Dashboard Using Excel
-![Supermarket Sales Dashboard]()
+![Supermarket Sales Dashboard](https://github.com/Afjal-khan/Super-Market-Sales-Analysis-Dashboard/blob/main/sales%20dashboard%20using%20excel.png)
